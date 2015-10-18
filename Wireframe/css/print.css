@@ -1,0 +1,14 @@
+#toolbar, #library, #palette, nav{
+	display: none;
+	border: 0px solid white  !important;
+	background-color:white !important;
+}
+	
+#pad{
+		display: block !important;
+		border: 0px solid white  !important;
+		background-color:white !important;
+		box-shadow:none !important;
+	}		
+		
+		
